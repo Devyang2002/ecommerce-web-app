@@ -27,7 +27,7 @@
     height: 12px;
     padding: 10px;
     border:none;
-    width: 70%;
+    width: 80%;
 }
 
 .header__searchIcon{
@@ -45,19 +45,19 @@
 .header__option{
     display: flex;
     flex-direction: column;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+    margin-right: 2px;
     color: white;
-    padding: 5px;
+    /* padding: 5px; */
     border: 2px solid white;
 }
 
 .header__optionone{
-    font-size: 13px;
+    font-size: 12px;
 }
 
 .header__optiontwo{
-    font-size: 15px;
+    font-size: 13px;
     font-weight: 800;
 }
 
