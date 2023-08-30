@@ -23,6 +23,7 @@ export default function Home() {
             rating={4} 
             image="https://m.media-amazon.com/images/I/61y2VVWcGBL._SY450_.jpg"
             />
+
             <Products
             id={756746376}
             title="boAt Stone 352 Bluetooth Speaker with 10W RMS Stereo Sound"
@@ -30,7 +31,6 @@ export default function Home() {
             rating={4}
             image="https://m.media-amazon.com/images/I/61K8FS335JL._SY355_.jpg"
             />
-
             <Products 
             id={645782543}
             title="Apple iPhone 14 Pro (128 GB) - Deep Purple"
