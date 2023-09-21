@@ -11,9 +11,9 @@ export default function Checkout() {
         <div className="checkout__left">
         <img className='checkout__ad' src="https://onestopdiscountshop.ca/cdn/shop/files/Quality_Products_at_a_fraction_of_Retail_Price_1800_x_600_px_5f568c42-1ebe-4484-a0d8-6102905483cc.png?v=1670015967&width=1800" alt="amazon prime image" />
         
-            <h2 className="checkout__title">
+            <h1 className="checkout__title">
                 Shopping Cart
-            </h2>
+            </h1>
 
             {basket.map(item =>(
                 <Checkoutproduct
